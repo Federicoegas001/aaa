@@ -359,6 +359,10 @@ main{
     justify-content: space-around;
 }
 
+.twittscontainers h4{
+    color: #888888;
+}
+
 .twittscontainers a{
     color: #1090F2;
 }
